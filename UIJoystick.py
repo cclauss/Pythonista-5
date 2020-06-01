@@ -1,6 +1,5 @@
 import ui
 
-
 class Joystick(ui.View):
 	class joystickImage(ui.View):
 		def __init__(self, **kwargs):
