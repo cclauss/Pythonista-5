@@ -20,7 +20,7 @@ def printMaxIters(xr):
 	print('Max iterations reached...')
 	print(f'Function value at max iteration: {xr}')
 
-
+	
 def create_function(func):
 	try:
 		if type(func) == type(lambda x: x):
